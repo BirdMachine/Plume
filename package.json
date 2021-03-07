@@ -1,0 +1,13 @@
+{
+  "name": "plume",
+  "version": "1.0.0",
+  "description": "Uses gradient-string to generate a gradient based on passed values",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Birdie",
+  "license": "WTFPL"
+}
