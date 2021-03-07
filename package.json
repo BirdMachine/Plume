@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Birdie",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "gradient-string": "^1.2.0"
+  }
 }
