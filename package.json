@@ -11,6 +11,7 @@
   "author": "Birdie",
   "license": "WTFPL",
   "dependencies": {
+    "easy-stdin": "^1.0.1",
     "gradient-string": "^1.2.0"
   }
 }
